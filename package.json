@@ -2,7 +2,7 @@
   "name": "module-reack-02",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Nataliia-Korneiko/goit-react-hw-01-components",
+  "homepage": "https://github.com/Nataliia-Korneiko/goit-react-hw-01-components/build",
   "dependencies": {
     "jss": "^10.0.0",
     "jss-preset-default": "^10.0.0",
